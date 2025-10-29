@@ -40,7 +40,6 @@ include __DIR__ . '/_header.php';
 
     <div class="flex items-center gap-3">
       <button type="submit" class="bg-indigo-600 text-white px-4 py-2 rounded">Login</button>
-      <a href="register.php" class="text-sm text-gray-600">Belum punya akun? Daftar</a>
     </div>
   </form>
 </div>
